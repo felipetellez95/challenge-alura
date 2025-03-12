@@ -46,4 +46,4 @@ Contiene la lógica para agregar amigos, mostrar la lista de amigos y realizar e
 - Feedback visual: Se puede mejorar la interfaz mostrando mensajes de error dentro de la página en lugar de usar alert().
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT - ver el archivo LICENSE para más detalles.
+Este proyecto está bajo la Licencia MIT
