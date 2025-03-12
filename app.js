@@ -44,7 +44,7 @@ function sortearAmigo() {
     let amigoSorteado = amigosNoSorteados[indiceAmigo];
 
     let resultadoHTML = document.querySelector("#resultado");
-    resultadoHTML.innerHTML = (`Tu amigo secreto será: ${amigos[indiceAmigo]}`);
+    resultadoHTML.innerHTML = (`Tu amigo secreto será: ${amigosNoSorteados[indiceAmigo]}`);
 
     amigosSorteados.push(amigoSorteado);
   }
